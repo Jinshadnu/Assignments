@@ -1,0 +1,20 @@
+body{
+	background-color:#E8D550;
+}
+table,th, td {
+    
+	border-style:inset;
+	border-width:5px;  
+	background-color:#E8D550;
+	
+}
+    
+}
+th{
+	height:50px;
+    background-color:#E8D550;
+}
+td{
+	font-size:18px;
+	background-color:#E8D550;
+}
